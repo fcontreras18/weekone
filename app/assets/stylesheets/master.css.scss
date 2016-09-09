@@ -5,6 +5,14 @@
   clear:both;
 }
 
+body{
+background: url('ocean.jpg') no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
 .circle {
     font-weight:bold;
     font-style: italic;
